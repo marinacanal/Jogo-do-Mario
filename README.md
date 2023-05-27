@@ -1,4 +1,4 @@
-# mario-jogo
+# Jogo-Mario
 jogo simples do Mario pulando
 
 
